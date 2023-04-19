@@ -1,0 +1,189 @@
+[
+    {
+      "id": "EAhdb45",
+      "titulo": "el agente nocturno",
+      "imagen": "/Img/ElAgenteNocturno.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/yU6t0YPYdVw",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb46",
+      "titulo": "aliados",
+      "imagen": "/Img/Aliados.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/FHT8k84yYNc",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb47",
+      "titulo": "al otro lado del mundo",
+      "imagen": "/Img/AlOtroLadoDelMundo.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/IClX7nqGvIo",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb48",
+      "titulo": "el caso figo",
+      "imagen": "/Img/ElCasoFigo.jpg",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/P3U7TZwbVCg",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb49",
+      "titulo": "el precio de la verdad",
+      "imagen": "/Img/ElPrecioDeLaVerdad.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/fYOB8D9xr4U",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb50",
+      "titulo": "eterno resplandor",
+      "imagen": "/Img/EternoResplandor.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/Lv4BNEn4kKo",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb51",
+      "titulo": "fragmentado",
+      "imagen": "/Img/Fragmentados.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/3fQ82KWRRfo",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb52",
+      "titulo": "geisha",
+      "imagen": "/Img/Geisha.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/4L-xlmakQvc",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb53",
+      "titulo": "1917",
+      "imagen": "/Img/1917.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/SBc69RKIqwg",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb54",
+      "titulo": "gran torino",
+      "imagen": "/Img/GranTorino.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/RMhbr2XQblk",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb55",
+      "titulo": "habia una vez en hollywood",
+      "imagen": "/Img/HabiaUnaVezEnHollybood.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/bLqTt35GCA4",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb56",
+      "titulo": "la gran muralla",
+      "imagen": "/Img/LaGranMuralla.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/bwAxwNPNW1U",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb57",
+      "titulo": "no dejes de mirarme",
+      "imagen": "/Img/NoDejesDeMirarme.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/_wXiS8wSWL4",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb58",
+      "titulo": "sangre de mi sangre",
+      "imagen": "/Img/SangreDeMiSangre.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/f2xk8lAsNe0",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb59",
+      "titulo": "suenios de fuga",
+      "imagen": "/Img/SueniosDeFuga.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/YYaMlddqpA8",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb60",
+      "titulo": "ted bundy",
+      "imagen": "/Img/TedBundy.webp",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/J-kA0kpmXQs",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    },
+    {
+      "id": "EAhdb61",
+      "titulo": "una sombra en mi ojo",
+      "imagen": "/Img/UnaSombraEnMiOjo.jpg",
+      "director": "James Cameron",
+      "anio": 1997,
+      "src": "https://www.youtube.com/embed/uSZNLlo05tE",
+      "sinopsis": "Un joven artista se enamora de una mujer aristocrática a bordo del Titanic, mientras el barco se dirige hacia su trágico destino.",
+      "reparto": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "genero": "Romance/Drama"
+    }
+  ]
